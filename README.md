@@ -1,4 +1,4 @@
-# 📡 Telecom Customer Churn Prediction & CLV Analysis
+# Telecom Customer Churn Prediction & CLV Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
