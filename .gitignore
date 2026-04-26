@@ -1,0 +1,31 @@
+# ── Model Files ───────────────────────────────────────────────
+models/
+*.pkl
+*.joblib
+
+# ── Output Files ──────────────────────────────────────────────
+outputs/
+
+# ── Jupyter Notebook Checkpoints ──────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python Cache ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── Environment Files ─────────────────────────────────────────
+.env
+venv/
+env/
+.conda/
+
+# ── OS Generated Files ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Large Data Files (if dataset is big) ──────────────────────
+*.csv

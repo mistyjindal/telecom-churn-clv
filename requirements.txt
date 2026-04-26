@@ -1,0 +1,26 @@
+# ─────────────────────────────────────────────────────────────
+# Telecom Customer Churn Prediction & CLV Analysis
+# Requirements File
+# Python 3.13 | Anaconda (conda env: base)
+# ─────────────────────────────────────────────────────────────
+
+# ── Core Data Handling ────────────────────────────────────────
+numpy==2.3.5
+pandas==2.3.3
+
+# ── Visualisation ─────────────────────────────────────────────
+matplotlib
+seaborn
+
+# ── Machine Learning ──────────────────────────────────────────
+scikit-learn
+
+# ── Class Imbalance (SMOTE) ───────────────────────────────────
+imbalanced-learn
+
+# ── Model Saving ──────────────────────────────────────────────
+joblib
+
+# ── Jupyter Notebook ──────────────────────────────────────────
+jupyter
+ipykernel
