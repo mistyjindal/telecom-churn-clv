@@ -321,9 +321,9 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📧 misty.jindal.2610@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/misty-jindal-7a2bb0288?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+ [GitHub](https://github.com/mistyjindal)
 
 ---
 
